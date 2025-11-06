@@ -2,14 +2,8 @@
 ## Project Overview
 **🌐 Node.js App — Automated CI/CD Pipeline Using Jenkins + GitHub Webhooks**   
 This project implements a complete CI/CD pipeline for a Node.js application deployment using Jenkins, AWS EC2, and GitHub integration. The pipeline automates the build, test, and deployment process whenever code changes are pushed to the repository.
-
-
 ## Architecture Diagram
-
 ![](./nodeapp-project-img/jenkins-pipeline.png)
-
-
-
 ### What This Project Does
 * Automates the deployment of a Node.js application using Jenkins CI/CD.
 * Integrates GitHub Webhooks to automatically trigger builds when new code is pushed.
